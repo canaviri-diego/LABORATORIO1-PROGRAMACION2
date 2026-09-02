@@ -1,0 +1,6 @@
+Ventajas de la Programación Orientada a Objetos frente a la Programación Modular-Estructurada:
+
+- Encapsula los datos (la lista) junto con los métodos que los usan, evitando dejar variables sueltas en el módulo.
+- Permite crear varios objetos Estadistica con distintos conjuntos de datos al mismo tiempo, sin depender de una única variable global compartida como en la versión modular.
+- Facilita reutilizar la clase Estadistica en otros programas sin tocar su código interno.
+- Es más fácil de mantener y ampliar si más adelante se agregan otros cálculos (mediana, varianza, moda, etc).

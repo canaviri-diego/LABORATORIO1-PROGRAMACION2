@@ -1,0 +1,13 @@
+EcuacionLineal
+----------------------------
+- a: float
+- b: float
+- c: float
+- d: float
+- e: float
+- f: float
+----------------------------
++ EcuacionLineal(a, b, c, d, e, f)
++ tiene_solucion(): bool
++ get_x(): float
++ get_y(): float

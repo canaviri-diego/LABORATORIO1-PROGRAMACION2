@@ -1,0 +1,10 @@
+EcuacionCuadratica
+----------------------------
+- a: float
+- b: float
+- c: float
+----------------------------
++ EcuacionCuadratica(a, b, c)
++ get_discriminante(): float
++ get_raiz1(): float
++ get_raiz2(): float

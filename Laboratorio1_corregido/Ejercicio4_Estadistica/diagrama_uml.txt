@@ -1,0 +1,7 @@
+Estadistica
+----------------------------
+- datos: list
+----------------------------
++ Estadistica(datos)
++ promedio(): float
++ desviacion(): float
