@@ -1,0 +1,19 @@
+PRUEBA DE ESCRITORIO - EJERCICIO 2
+
+| Dato | Valor |
+|---|---:|
+| Vector a | (2, 4, 0) |
+| Vector b | (-2, 1, 0) |
+| a · b | 0 |
+| Perpendiculares | True |
+| Paralelos | False |
+| Proyección de a sobre b | (0.0, 0.0, 0.0) |
+| Componente de a en b | 0.0 |
+
+Salida:
+Vector a: 2 4 0
+Vector b: -2 1 0
+¿Son perpendiculares?: True
+¿Son paralelos?: False
+Proyección de a sobre b: -0.0 0.0 0.0
+Componente de a en b: 0.0

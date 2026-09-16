@@ -1,0 +1,17 @@
+PRUEBA DE ESCRITORIO - EJERCICIO 1
+
+| Dato | Valor |
+|---|---:|
+| Punto 1 | (0, 0) |
+| Punto 2 | (10, 30.5) |
+| x1 | 0 |
+| y1 | 0 |
+| x2 | 10 |
+| y2 | 30.5 |
+| Distancia | 32.09750769140807 |
+
+Salida:
+Punto 1: 0 0
+Punto 2: 10 30.5
+Distancia: 32.09750769140807
+Distancia: 32.09750769140807
