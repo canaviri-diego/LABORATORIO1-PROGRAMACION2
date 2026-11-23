@@ -1,0 +1,4 @@
+La explicación
+crearCarrera(): Universidad crea la Carrera con new Carrera(nombreCarrera) dentro de su propio método y controla su ciclo de vida completo. Es composición.
+agregarDocente(Docente docente): Carrera no crea al Docente, lo recibe ya existente y solo lo añade a su lista. El Docente existía antes y puede pertenecer a otra Carrera. Es agregación.
+
